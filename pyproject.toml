@@ -6,9 +6,9 @@ build-backend = 'hatchling.build'
 path = 'devtools/version.py'
 
 [project]
-name = 'devtools'
+name = 'better-devtools'
 description = "Python's missing debug print command, and more."
-authors = [{name = 'Samuel Colvin', email = 's@muelcolvin.com'}]
+authors = [{name = 'Stanislav Zmiev', email = 'zmievsa@gmail.com'}, {name = 'Samuel Colvin', email = 's@muelcolvin.com'}]
 license = {file = 'LICENSE'}
 readme = 'README.md'
 classifiers = [
