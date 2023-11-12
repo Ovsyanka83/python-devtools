@@ -1,3 +1,8 @@
+## v0.13.0 (2023-11-12)
+
+* Add `insert_pytest_raises` context manager similar to `insert_assert` but for exceptions
+* Fix a bug where `mock.call` objects couldn't be displayed correctly with `insert_assert`
+
 ## v0.12.1 (2023-08-17)
 
 fix docs release
