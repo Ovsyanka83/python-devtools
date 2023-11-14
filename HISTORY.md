@@ -1,3 +1,7 @@
+## v0.13.3 (2023-11-14)
+
+* Fix License notice to be compatible with modern standards
+
 ## v0.13.0 (2023-11-12)
 
 * Add `insert_pytest_raises` context manager similar to `insert_assert` but for exceptions
